@@ -1,6 +1,6 @@
-# Project Name
+# Cryptography
 
-**Author**: Team Member Names Goes Here
+**Author**: Clarissa
 **Version**: 1.0.0
 
 ## Overview
@@ -11,6 +11,7 @@ Devise a way to decipher the encrypted message event when you do NOT have the ke
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Import Natural Language Toolkit (NLTK) from [Source: nltk.org](https://www.nltk.org/data.html)
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
